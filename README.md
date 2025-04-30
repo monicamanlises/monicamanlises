@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mon</h1>
-<h3 align="center">A machine learning and data science research enthusiast from De La Salle University - Manila 🏹 </h3>
+<h3 align="center">An NLP and HCAI research enthusiast from De La Salle University - Manila 🏹 </h3>
 <img align="right" src="https://piskel-imgstore-b.appspot.com/img/2587bc91-f5bb-11ee-9d7b-036f0de5dd5d.gif" width="275px" height="275px" alt="cat"/>
 
 
-- 🔭 I’m currently working on **an airline fuel prediction model under the [ALTDSI](https://altdsi.dlsu.edu.ph/)**
+- 📚 I’m currently working on **generating phonics stories using LLMs**
 
-- 👯 I’m looking to collaborate on **machine learning projects!**
+- 🔭 I previously worked on **an airline fuel prediction model under the [ALTDSI](https://altdsi.dlsu.edu.ph/)**
+
+- 👯 I’m looking to collaborate on **NLP for education projects!**
 
 - 👩‍💻 I'm mainly interested in and exploring research in the following fields: **NLP (LLMs, Generative AI), HCI, HCAI, Assistive Tech, EdTech**
 
 - 📫 Reach me through email: **maria.monica.manlises@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://github.com/mmonm17/mmonm17/blob/main/1-Page%20Resume%20-%20As%20of%20Nov%202024.pdf) | [CV](https://github.com/mmonm17/mmonm17/blob/main/Complete%20CV%20-%20As%20of%20Nov%202024.pdf)
+- 📄 Know about my experiences: [CV](https://github.com/mmonm17/mmonm17/blob/main/Complete%20CV%20-%20As%20of%20Nov%202024.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
