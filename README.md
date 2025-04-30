@@ -13,7 +13,7 @@
 
 - 📫 Reach me through email: **maria.monica.manlises@gmail.com**
 
-- 📄 Know about my experiences: [CV](https://github.com/mmonm17/mmonm17/blob/main/Complete%20CV%20-%20As%20of%20Nov%202024.pdf)
+- 📄 Know about my experiences: [CV](https://github.com/mmonm17/mmonm17/blob/main/_CV-Apr2025.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
