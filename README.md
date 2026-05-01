@@ -5,11 +5,13 @@
 
 - 📚 I’m currently working on **generating phonics stories using LLMs**
 
+- 🇦🇪 I have experience with low-resource NLP, having previously researched **code-switching in LLMs** during my internship under [UGRIP](https://mbzuai.ac.ae/ugrip/) at MBZUAI
+
 - 🔭 I previously worked on **an airline fuel prediction model under the [ALTDSI](https://altdsi.dlsu.edu.ph/)**
 
-- 👯 I’m looking to collaborate on **NLP for education projects!**
+- 👯 I’m looking to collaborate on **NLP for education** projects!
 
-- 👩‍💻 I'm mainly interested in and exploring research in the following fields: **NLP (LLMs, Generative AI), HCI, HCAI, Assistive Tech, EdTech**
+- 👩‍💻 I'm mainly interested in and exploring research in the following fields: **NLP (LLMs, Generative AI), HCI, HCAI, EdTech, Assistive Tech**
 
 - 📫 Reach me through email: **maria.monica.manlises@gmail.com**
 
