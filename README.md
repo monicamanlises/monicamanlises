@@ -15,7 +15,7 @@
 
 - 📫 Reach me through email: **maria.monica.manlises@gmail.com**
 
-- 📄 Know about my experiences: [CV](https://github.com/monicamanlises/monicamanlises7/blob/main/_CV-May2026.pdf)
+- 📄 Know about my experiences: [CV](https://github.com/monicamanlises/monicamanlises/blob/main/_CV-May2026.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
