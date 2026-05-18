@@ -3,7 +3,7 @@
 <img align="right" src="https://piskel-imgstore-b.appspot.com/img/2587bc91-f5bb-11ee-9d7b-036f0de5dd5d.gif" width="275px" height="275px" alt="cat"/>
 
 
-- 📚 I’m currently working on **generating phonics stories using LLMs**
+- 👂 I’m currently working on **generating phonics stories using LLMs**
 
 - 🇦🇪 I have experience with low-resource NLP, having previously researched **code-switching in LLMs** during my internship under [UGRIP](https://mbzuai.ac.ae/ugrip/) at MBZUAI
 
@@ -16,6 +16,8 @@
 - 📫 Reach me through email: **maria.monica.manlises@gmail.com**
 
 - 📄 Know about my experiences: [CV](https://github.com/monicamanlises/monicamanlises/blob/main/_CV-May2026.pdf)
+
+- 📚 View my publications: [Google Scholar](https://scholar.google.com/citations?user=FQLn54oAAAAJ&hl=en)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
